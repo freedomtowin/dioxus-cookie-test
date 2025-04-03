@@ -1,0 +1,5 @@
+dist
+target
+static
+.dioxus
+Cargo.lock
